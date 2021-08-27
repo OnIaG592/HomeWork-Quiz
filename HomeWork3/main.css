@@ -1,0 +1,15 @@
+.quiz {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center
+}
+
+.quiz div {
+    width: 400px;
+}
+
+footer {
+    margin-top: 50px;
+    margin-left: 500px;
+}
